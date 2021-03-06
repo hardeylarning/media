@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebe4d480-e295-4d20-9a4c-67ec0698e711" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aixVtmpTbt5EkvxASuUYioTgEo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\media" />
+      <recent name="C:\xampp\htdocs\media\admin\includes" />
+      <recent name="C:\xampp\htdocs\media\admin" />
+      <recent name="C:\xampp\htdocs\media\includes" />
+      <recent name="C:\xampp\htdocs\media\admin\b4.3.1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\media\admin\includes" />
+      <recent name="C:\xampp\htdocs\media\admin" />
+      <recent name="C:\xampp\htdocs\media\includes" />
+      <recent name="C:\xampp\htdocs\media\b4.3.1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebe4d480-e295-4d20-9a4c-67ec0698e711" name="Default Changelist" comment="" />
+      <created>1587232244846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587232244846</updated>
+      <workItem from="1587232255110" duration="10892000" />
+      <workItem from="1587284657683" duration="25200000" />
+      <workItem from="1587351296453" duration="134000" />
+      <workItem from="1587352584397" duration="60216000" />
+      <workItem from="1587542818177" duration="81416000" />
+      <workItem from="1588078340059" duration="5415000" />
+      <workItem from="1588175878342" duration="8862000" />
+      <workItem from="1588410532797" duration="3109000" />
+      <workItem from="1588497146018" duration="5468000" />
+      <workItem from="1588932725313" duration="939000" />
+      <workItem from="1589052364616" duration="13000" />
+      <workItem from="1589127840872" duration="3366000" />
+      <workItem from="1589269256669" duration="404000" />
+      <workItem from="1589805615376" duration="916000" />
+      <workItem from="1589898243247" duration="597000" />
+      <workItem from="1598274556165" duration="1787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
